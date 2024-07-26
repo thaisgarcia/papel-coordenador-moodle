@@ -1,4 +1,4 @@
-# Script de inscrição e atribuição de função do usuário do Moodle
+# Script de inscrição e atribuição de papel do usuário do Moodle
 
 Este script Python permite automatizar o processo de matrícula de usuários em cursos e atribuição de papéis, como coordenadores, conforme necessário.
 
