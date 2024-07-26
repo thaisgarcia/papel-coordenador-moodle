@@ -6,7 +6,7 @@ moodle_url = 'https://your-moodle-site.com/webservice/rest/server.php'
 
 # Parâmetros (substituir)
 user_id = 4  # ID do Coordenador
-role_id = 9  # ID do Papel de Coordenador
+role_id = 11  # ID do Papel de Coordenador
 category_id = 2  # ID da Categoria
 
 # Funções da API REST
